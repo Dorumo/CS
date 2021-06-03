@@ -5,3 +5,10 @@ C:\Users\T-Gamer\Desktop\Alura\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.
 C:\Users\T-Gamer\Desktop\Alura\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
 C:\Users\T-Gamer\Desktop\Alura\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
 C:\Users\T-Gamer\Desktop\Alura\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\T-Gamer\Desktop\CS\C# II\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
