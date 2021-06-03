@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\bin\Debug\desafio1.exe.config
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\bin\Debug\desafio1.exe
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\bin\Debug\desafio1.pdb
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\obj\Debug\desafio1.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\obj\Debug\desafio1.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\obj\Debug\desafio1.exe
+C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio1\obj\Debug\desafio1.pdb
