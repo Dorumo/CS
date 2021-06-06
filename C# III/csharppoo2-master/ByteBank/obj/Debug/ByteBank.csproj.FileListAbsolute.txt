@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\T-Gamer\Desktop\CS\C# III\csharppoo2-master\ByteBank\obj\Debug\ByteBank.pdb
