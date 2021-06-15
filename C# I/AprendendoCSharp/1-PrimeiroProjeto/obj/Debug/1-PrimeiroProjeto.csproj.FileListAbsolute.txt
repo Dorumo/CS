@@ -1,7 +1,0 @@
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.AssemblyReference.cache
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

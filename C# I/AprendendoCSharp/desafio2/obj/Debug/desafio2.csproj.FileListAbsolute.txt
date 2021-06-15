@@ -1,6 +1,0 @@
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\bin\Debug\desafio2.exe.config
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\bin\Debug\desafio2.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\bin\Debug\desafio2.pdb
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\obj\Debug\desafio2.csproj.CoreCompileInputs.cache
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\obj\Debug\desafio2.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\desafio2\obj\Debug\desafio2.pdb

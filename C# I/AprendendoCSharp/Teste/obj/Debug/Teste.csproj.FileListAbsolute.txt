@@ -1,7 +1,0 @@
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\bin\Debug\Teste.exe.config
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\bin\Debug\Teste.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\bin\Debug\Teste.pdb
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\obj\Debug\Teste.exe
-C:\Users\T-Gamer\Desktop\Alura\C# I\AprendendoCSharp\Teste\obj\Debug\Teste.pdb
